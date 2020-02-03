@@ -1,18 +1,9 @@
-const doughnut = [
-    apple = "delicious",
-    bearClaw = "wonderful",
-    chocolate = "yumm",
-]
+// console.log("Hello from the local machine"); This is an inline comment
 
-console.log(doughnut);
+var number = 5; /*This is a 
+Multi-line comment
+This is wild huh */
 
-// let a = 10;
-
-// let b = 80; // this does the same thing as below.
-
-let a, b, sum;
-a = 10;
-b = 80;
-sum = a + b;
-
-console.log(sum);
+/* Data Types:
+Undefined, null, boolean, string, symbol, number, and object
+*/
